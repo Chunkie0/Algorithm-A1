@@ -33,7 +33,7 @@ letters[i], letters[i+1] = letters[i+1], letters[i]
 not_sorted = True
 ```
 
-Returns sorted letters
+Returns sorted letters as a string
 ```
 return "".join(letters).strip()
 ```

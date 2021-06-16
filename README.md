@@ -1,5 +1,5 @@
 ## Bubble Sort Algortithm
-#Bubble sorting algorithm where each element is compared to the one next to it and they are swapped if the one on the left is larger than the one on the right.
+# Bubble sorting algorithm where each element is compared to the one next to it and they are swapped if the one on the left is larger than the one on the right.
 
 This part of code will convert string into an array of letters
 ```
@@ -11,7 +11,7 @@ This will help while loop to keep looping until its value is changed to false
 not_sorted = True
 ```
 
-By assigning not_sorted to false, it will exit the while loop if it reaches the end of while loops block without its value changed changed back to true
+By assigning not_sorted to false, it will exit the while loop if it reaches the end of while loops block without its value changed back to true
 ```
 not_sorted = False
 ```

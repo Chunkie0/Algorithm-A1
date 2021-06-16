@@ -1,6 +1,8 @@
 # Bubble Sort Algortithm
 ## Bubble sorting algorithm where each element is compared to the one next to it and they are swapped if the one on the left is larger than the one on the right.
 
+### A short description of how the code works:
+
 This part of code will convert string into an array of letters
 ```
 letters = list(name)
